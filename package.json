@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -26,5 +26,13 @@
   },
   "engines": {
     "node": "16.15.1"
-}
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scar919/PWA-Text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Scar919/PWA-Text/issues"
+  },
+  "homepage": "https://github.com/Scar919/PWA-Text#readme"
 }
