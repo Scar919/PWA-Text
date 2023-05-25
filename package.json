@@ -24,9 +24,7 @@
     "webpack": "^5.83.1",
     "webpack-cli": "^5.1.1"
   },
-  "engines": {
-    "node": "16.15.1"
-  },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Scar919/PWA-Text.git"
